@@ -1,0 +1,4 @@
+EasyButton
+==========
+
+That was easy!
