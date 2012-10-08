@@ -1,9 +1,8 @@
 package com.saicheems.projects.easy.button;
 
+import android.app.Activity;
 import android.media.AudioManager;
 import android.os.Bundle;
-import android.app.Activity;
-import android.view.Menu;
 import android.view.View;
 import android.widget.ImageButton;
 
